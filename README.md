@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @RAZU-111
+- 👋 Hi, I’m MD.Akmal Hossain Razu
+
 - 👀 I’m interested in problem solving 
 - 🌱 I’m currently learning c++  and Java 
 - 💞️ I’m looking to collaborate on github
